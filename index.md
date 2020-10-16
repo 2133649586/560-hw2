@@ -24,7 +24,7 @@ Skill: Not all team member is professional in creating visualization example. So
 5.provide powerpoint of screenshots to walk through visualization.
 
 ### Gantt Chart
-[Image](src)
+[Image](Gantt Chart.png)
 
 
 
