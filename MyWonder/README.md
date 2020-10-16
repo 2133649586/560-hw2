@@ -5,4 +5,4 @@ Mywonder is the new platform that can handle big data analytics and visualizatio
 
 
 # Documentation
-The approach to the github page:https://2133649586.github.io/DSCI-560/
+The path to the github page:https://2133649586.github.io/DSCI-560/
