@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to MyWonder
 
-You can use the [editor on GitHub](https://github.com/2133649586/DSCI-560/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Project summary
+MyWonder is the new platform that can handle big data analytic and visualization. It can create visualization for users from massive files that need hours to process under 10 minutes, and the file distribution on the cloud is efficient for user to analyze and summary before they start meeting.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Wastes:
+Transport: When client ask help to customer assistance team, the support assistant may not understand the question because they are not professional, even if they can understand, only the backend team can update content. After assistant inform backend team,they need spend additional time to fix it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Waiting: the terminology and contents used in the interface result in client need to call customer assistance team constantly to get correct understanding, it is time-wasted. It cause that user need to spend much more time on figuring out how to user it.
 
-```markdown
-Syntax highlighted code block
+Skill: Not all team member is professional in creating visualization example. Some of them not familiar with creating a clear visualization example, and their outcome may lead to misunderstand.
 
-# Header 1
-## Header 2
-### Header 3
+### Deliverable:
+1.The new version of MyWonder for demo.
+2.The helpful powerpoint that to walk through visualization.
 
-- Bulleted
-- List
+### Milestone:
+1.Change the terminology and contents used in the UI.
+2.Create “Note” function allow user to create “Note” in visualization.
+3.Design separate testing and production environment in UI.
+4.Provide visualization demo in MyWonder.
+5.provide powerpoint of screenshots to walk through visualization.
 
-1. Numbered
-2. List
+### Gantt Chart
+[Image](src)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2133649586/DSCI-560/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
